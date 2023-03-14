@@ -21,7 +21,7 @@
   <a href="https://www.solidjs.com/docs/latest/api">API Docs</a> •
   <a href="https://www.solidjs.com/tutorial/introduction_basics">Tutorial</a> •
   <a href="https://playground.solidjs.com">Playground</a> •
-  <a href="https://discord.gg/YJ3wu7PwRx"target="_blank">Discord</a> •
+  <a href="https://discord.gg/YJ3wu7PwRx">Discord</a> •
   <a href="https://www.solidjs.com/ecosystem">Ecosystem</a> •
   <a href="https://www.solidjs.com/resources">Resources</a> •
   <a href="https://www.solidjs.com/examples/counter">Examples</a> •
