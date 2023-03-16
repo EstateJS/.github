@@ -5,7 +5,7 @@
   <br/><br/>
   <b>Estate</b> is for simple and performant state management &mdash;
   <br/>
-  build powerful web applications, easily.
+  build powerful cloud-native applications, easily.
   <br/><br/>
 </p>
 
