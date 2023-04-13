@@ -5,4 +5,9 @@
   <br/><br/>
   Open-source elegant and performant TypeScript AppServer/database that helps you build powerful backends, easily.  
   <br/><br/>
+  <a href="https://stackblitz.com/edit/estate-exercise-tracker?file=README.md">
+  <img alt="Open in StackBlitz"
+    src="https://developer.stackblitz.com/img/open_in_stackblitz.svg"
+  />
+</a>
 </p>
