@@ -3,8 +3,6 @@
 <p align="center">
   <img src="https://github.com/EstateJS/.github/blob/main/banner-minimal.png">
   <br/><br/>
-  <b>Estate</b> is for simple and performant state management &mdash;
-  <br/>
-  build powerful cloud-native applications, easily.
+  Open-source elegant and performant TypeScript AppServer/database that helps you build powerful backends, easily.  
   <br/><br/>
 </p>
