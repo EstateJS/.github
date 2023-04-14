@@ -6,9 +6,9 @@
   Estate is an open-source TypeScript object database with an embedded AppServer that may be all you need to write powerful real-time SaaS backends and efficient Line-of-Business app backends.
   <br/><br/>
   <a href="https://stackblitz.com/edit/estate-exercise-tracker?file=README.md">
-  <img alt="Open Sandbox Live Demo"
-    src="https://developer.stackblitz.com/img/open_in_stackblitz.svg"
-  />
-  <img src="https://discordapp.com/api/guilds/1051255900557549689/widget.png?style=banner2" alt="Discord Banner 2"/>
-</a>
+    <img alt="Open Sandbox Live Demo"
+      src="https://developer.stackblitz.com/img/open_in_stackblitz.svg"
+    />
+  </a>
+  <img src="https://discordapp.com/api/guilds/1051255900557549689/widget.png?style=banner2" alt="Estate Discord"/>
 </p>
