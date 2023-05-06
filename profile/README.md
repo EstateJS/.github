@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to the <a href="https://www.stackless.dev/panels/cta">Estate</a> community!</h1>
+<h1 align="center">Welcome to Estate</h1>
 <br/>
 <p align="center">
   <img src="https://github.com/EstateJS/.github/blob/main/banner-minimal.png">
