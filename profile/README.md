@@ -5,11 +5,5 @@
   <br/><br/>
   Estate is where developers build and deploy stateful micro-backends by writing TypeScript POJOs and issuing a single command.
   <br/><br/>
-  Check out our live sandbox: 
-  <br/>
-  <a href="https://stackblitz.com/edit/estate-tutorial?file=service%2Findex.ts,src%2Fpages%2Fsign-log-book.tsx,src%2Fpages%2Flog-book-entries.tsx">
-    <img alt="Open Sandbox Live Demo"
-      src="https://developer.stackblitz.com/img/open_in_stackblitz.svg"
-    />
-  </a>
+  Get started by following the tutorial at <a href="https://estatejs.com/#fast-track-%EF%B8%8F">https://estatejs.com/#fast-track</a>
 </p>
