@@ -3,11 +3,11 @@
 <p align="center">
   <img src="https://github.com/EstateJS/.github/blob/main/banner-minimal.png">
   <br/><br/>
-  Estate is an open-source TypeScript object database with an embedded AppServer that may be all you need to write powerful real-time SaaS backends and efficient Line-of-Business app backends.
+  Estate is where developers build and deploy stateful micro-backends by writing TypeScript POJOs and issuing a single command.
   <br/><br/>
   Check out our live sandbox: 
   <br/>
-  <a href="https://stackblitz.com/edit/estate-exercise-tracker?file=README.md">
+  <a href="https://stackblitz.com/edit/estate-tutorial?file=service%2Findex.ts,src%2Fpages%2Fsign-log-book.tsx,src%2Fpages%2Flog-book-entries.tsx">
     <img alt="Open Sandbox Live Demo"
       src="https://developer.stackblitz.com/img/open_in_stackblitz.svg"
     />
